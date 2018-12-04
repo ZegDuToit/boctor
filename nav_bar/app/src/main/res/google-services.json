@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "951148661113",
+    "firebase_url": "https://boctor-c1ed9.firebaseio.com",
+    "project_id": "boctor-c1ed9",
+    "storage_bucket": "boctor-c1ed9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951148661113:android:afdb4b02f8b6fe24",
+        "android_client_info": {
+          "package_name": "com.example.fridtjof.nav_bar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951148661113-mr12d60nfd4or0e2m567tihdgsq9igbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFMNaTQNjq6Bk9e9zzcLOnCdOC1kQB80c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single" android:id="@+id/nav_menu">
+        <item
+            android:id="@+id/nav_analyse"
+            android:icon="@mipmap/ic_analyse"
+            android:title="@string/firstLayout" />
+        <item
+            android:id="@+id/nav_reset"
+            android:icon="@mipmap/ic_reset"
+            android:title="@string/secondLayout" />
+        <item
+            android:id="@+id/nav_bugreport"
+            android:icon="@mipmap/ic_bugreport"
+            android:title="@string/thirdLayout" />
+        <item
+            android:id="@+id/menu_none"
+            android:title=""
+            android:visible="false"/>
+    </group>
+
+    <item android:title="Kontakt">
+        <menu>
+            <item
+                android:id="@+id/nav_contact"
+                android:icon="@mipmap/ic_contact"
+                android:title="@string/fourthLayout" />
+        </menu>
+    </item>
+
+</menu>
